@@ -18,6 +18,16 @@ He is very reliable and pretty durable. Condition on my own 5250 is not too good
 
 I prefer not to use smartphones, so on my phone I have only mobile hotspot, calls, and SMS. For all things as note taking, study, listening to music, and of course coding, I use only this laptop.
 
+With him I'm able to do some simple work in **GIMP**, **Kdenlive (1 minute of stock video takes 10-15 minutes to export in 720p)**, **Audacity**, **Vim** etc. To run **Firefox** on him it takes maybe 30 seconds to run him, and also 20 seconds to wait when he sill stop to freeze.
+
+For coding this laptop is pretty decent, because he can easily edit files of any size (even 100MB+). I can write apps and codes, but probably some of them will never be compiled on him.
+
+**YouTube** he can pretty easy run in 240-360p, what is enough if you don't run video in fullscreen and at display of your laptop is 1366x768.
+
+**CONCLUSION:** If your budget is 15-25 dollars, I think that this laptop really worth your monry. I use him every day and maybe 6-8 hours, and as you can see it's not a problem. I fully finished one school year with him (I was using **LibreOffice** for my note taking).
+
+I know that probably you have thoughts in a kind of -"He is crazy and it's not possible to live with this laptop", but I was using a lot of laptops with the latest generations of Intel Core i7-9, and I would like to say that person gets used to everything. You can adapt yourself to everything, and even to this old laptop)))
+
 ## ThinkPad T480 (goal)
 
 I don't have this laptop, but I really want to own him!
