@@ -28,6 +28,8 @@ For coding this laptop is pretty decent, because he can easily edit files of any
 
 I know that probably you have thoughts in a kind of -"He is crazy and it's not possible to live with this laptop", but I was using a lot of laptops with the latest generations of Intel Core i7-9, and I would like to say that person gets used to everything. You can adapt yourself to everything, and even to this old laptop)))
 
+NOTE: So, some days ago it was a very rainy weather in my city. I was waiting for a bus with a laptop inside my not waterproof backpack for a pretty long time, and when I came back to home and opened my laptop, I noticed that his display is literally destroyed by water. He has something in a kind of very bright flat liquid on the right side on his display. Looks terrible, but it's still possible to see everything what I need. Also he was fully filled with water inside (keyboard, HDD, all ports etc.), but it still works as new :)
+
 ## ThinkPad T480 (goal)
 
 I don't have this laptop, but I really want to own him!
