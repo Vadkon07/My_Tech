@@ -30,9 +30,11 @@ Also I like his speakers, which are even damaged have a better sound than Acer A
 
 I know that probably you have thoughts in a kind of -"He is crazy and it's not possible to live with this laptop", but I was using a lot of laptops with the latest generations of Intel Core i7-9, and I would like to say that person gets used to everything. You can adapt yourself to everything, and even to this old laptop)))
 
-NOTE: Some days ago it was a very rainy weather in my city. I was waiting for a bus with a laptop inside my not waterproof backpack for a pretty long time, and when I came back to home and opened my laptop, I noticed that his display is literally destroyed by water. He has something in a kind of very bright flat liquid on the right side on his display. Looks terrible, but it's still possible to see everything what I need. Also he was fully filled with water inside (keyboard, HDD, all ports etc.), but it still works as new :)
+Some time ago it was a very rainy weather in my city. I was waiting for a bus with a laptop inside my not waterproof backpack for a pretty long time, and when I came back to home and opened my laptop, I noticed that his display is literally destroyed by water. He has something in a kind of very bright flat liquid on the right side on his display. Looks terrible, but it's still possible to see everything what I need. Also he was fully filled with water inside (keyboard, HDD, all ports etc.), but it still works as new :)
 
-EDIT 10/06/2024: This laptop doens't have any signs of liquid on his screen anymore, but as a "shadow" of what happened some time ago display has something in a kind of white bright dot's, each dot is I think 1-2mm and he has approximately 15-20 of them. Still usable at all. I bought a VGA cable and connected this laptop to external monitor (TV), and found that it works really fine in 1920x1080  + 60 FPS.
+EDIT 10/06/2024: This laptop doens't have any signs of liquid on his screen anymore, but as a "shadow" of what happened some time ago display has something in a kind of white bright dot's, each dot is I think 1-2mm and he has approximately 15-20 of them. Still usable at all. I bought a VGA cable and connected this laptop to external monitor (TV), and found that it works fine in 1920x1080  + 60 FPS.
+
+EDIT 11/04/2024: Yesterday I sold this laptop. I sold him for 10 euro, so I got +10 in my pocket and it means that until the next summer I will probably save enough money to buy a ThinkPad T430. Now I have to live fully without a laptop, because I don't have any another laptop. At all half of a day I have to stay at school, so I can use my school laptop (Acer Extensa 15 2020) for coding and at all for everything what I want.
 
 ## ThinkPad T430 (goal)
 
