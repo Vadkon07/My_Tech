@@ -52,15 +52,32 @@ The only one thing which I really don't like in him is that he has only 4GB of R
 
 This laptop is very lightweight and has the same dimesions to MacBook Air. I think that he is very portable (he is calle ultraportable at all), and by it you can take him anywhere where you want.
 
+## Acer Aspire One (model I don't remember)
+
+**Year (built + bought):** 2010-2011
+**CPU:** Intel Atom 1.6 Ghz
+**GPU:** (integrated)
+**RAM:** 1GB DDR3 (can be upgraded up to 2GB)
+**Storage:** HDD 180GB, but then I replaced it with a 500GB one
+
+NOTE: This 10"1 laptop is crazy portable, I had never saw laptops that small in my life. The only one problem of he was his battery, to be more correct she died and wasn't able to be charged again. He definitely had a better performance than my Acer Aspire 5250, even with only 1GB of RAM. I had to use it with Arch Linux.
+
 ## ThinkPad T430 (goal)
 
 I don't have this laptop, but I really want to buy him. I'm trying to sell my Acer Aspire 5250, all smartphones, and some details for computers which I have and then I will get enough money to buy this laptop. I have a lot of different "digital" hobbies, and I think that this laptop will be good enough for it. I think that i5 of 3 Gen will be pretty enough for simple tasks in music production and of course coding. At all it will be definitely better than my Acer Aspire 5250!
+
+# About MacBooks
+
+I never had my own MacBook, but here's all what can I say from my experience with different Macs from 2019 to 2023 year models:
+
+MacBook Air - nice screen and his colors.
+MacBook Pro - crazy good touchpad, I never saw better one in my life!
 
 # Devices
 
 **Keyboard:** Logitech K120
 
-My favorite keys. I like that this keyboard is wired (I prefer to use only wired tech) and that she is the best for her price. I use her with touch typing method in QWERTY, and it's very comfortable to type on her. I can easily get 95WPA or more on her.
+My favorite keys. I like that this keyboard is wired (I prefer to use only wired tech) and that she is the best for her price. I use her with touch typing method in QWERTY, and it's very comfortable to type on her. I can easily get 95WPA or more on her.Decision Cm 111 Bpm
 
 **Mouse:** Logitech M100 (also I have something in a kind of Logitech B100, but can't find any information about her)
 
