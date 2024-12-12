@@ -1,6 +1,6 @@
 # My Tech
 
-Hi! Here I just publish my devices and theirs descriptions, let's start!
+In this repository I write about all my epxeriences with every devices which I had to use (or still use).
 
 # Computers
 
@@ -36,6 +36,22 @@ EDIT 10/06/2024: This laptop doens't have any signs of liquid on his screen anym
 
 EDIT 11/04/2024: Yesterday I sold this laptop. I sold him for 10 euro, so I got +10 in my pocket and it means that until the next summer I will probably save enough money to buy a ThinkPad T430. Now I have to live fully without a laptop, because I don't have any another laptop. At all half of a day I have to stay at school, so I can use my school laptop (Acer Extensa 15 2020) for coding and at all for everything what I want.
 
+## HP Envy 13 d003 nl
+
+**Year (built + bought):** 2015-2016
+**CPU:** Intel Core i5-6200U 2.4 Ghz
+**GPU:** Intel HD 520 (integrated)
+**RAM:** 4GB DDR3 (can't be upgraded)
+**Storage:** M.2 SSD 250GB
+
+NOTE: My school teacher had this laptop, and she said that if I'll backup all his data and repair him (he had a lot of problems) - I can take him. So, it took like 1-2 hours to repair him and do some cleaning. This laptop is crazy good, and I like to use him. His visual condition... I never saw laptops that destroyed. His lid and case is damaged from all sides, and by it you can even see what is inside him. He doesn't has any plastic legs, has some not original screws, and even his screen has some blinks which are white and blue (anyway it's not visible at all). He also has some problems with his touchpad, and by it he doesn't hold very nice. HDMI works time-by-time. Fan is very loud because he is damaged and it sounds like scratches of plastic by plastis. Edge near lid is damaged.
+
+Even if his condition is terrible below him, when you use him you don't see anything of it. I like his camera, because she looks very good (even better than my old phone!). Good microphone (maybe two), good screen (Full HD IPS), fingerprint scanner, and a very good battery! His battery is 8 years old, but she still holds 2-3 hours of active usage (a lot of browsing, music production, coding), and how is that possible for laptop which was used before me really a lot?
+
+The only one thing which I really don't like in him is that he has only 4GB of RAM, which is, unfortunately, soldered. I think that it will be nice to have AT LEAST 8GB in this model, because i5 6 Gen is still pretty modern.
+
+This laptop is very lightweight and has the same dimesions to MacBook Air. I think that he is very portable (he is calle ultraportable at all), and by it you can take him anywhere where you want.
+
 ## ThinkPad T430 (goal)
 
 I don't have this laptop, but I really want to buy him. I'm trying to sell my Acer Aspire 5250, all smartphones, and some details for computers which I have and then I will get enough money to buy this laptop. I have a lot of different "digital" hobbies, and I think that this laptop will be good enough for it. I think that i5 of 3 Gen will be pretty enough for simple tasks in music production and of course coding. At all it will be definitely better than my Acer Aspire 5250!
@@ -58,4 +74,44 @@ I think that if you don't write music and just listen to her Sennheiser HD206 sh
 
 **Noname Cooling Pad:** At all he is always turned off, but it's a very good stand which decreased amount of dust inside my laptop. He can reduce temperature on 5-10 *C, but it depends from your laptop model.
 
-**Smartphone:** During last year I was using a lot of phone, but in conlusion I decided to live with a simple Nokia 105 2019. I just... like to live like that.
+# Smartphones/Phones
+
+# Nokia 105 2019
+
+During last year I had to a lot of phones, but in conlusion I decided to live with a simple Nokia 105 2019. I just... like to live like that.
+
+# Samsung Galaxy Star II or III
+
+Oh, it was my first personal phone. I remember that by him I started to wear glasses, because watch YouTube on a phone like that isn't a good idea.
+
+# Samsung Galaxy A5 2014
+
+It was one of my favorite phones, and he was still pretty usable even in 2024. His problems: slow performance after some years on usage (it was decreased some time later, so I think that it's a hardware issue).
+
+# Samsung Galaxy A30 2019
+
+Phone which still very usable, and doens't include something not common.
+
+# Samsung Galaxy M32 2021
+
+I sold him, but it still was a very good phone. I didn't like his camera, because it looks like it has a small effect of directional blur.
+
+# Samsung Galaxy J1 2016
+
+The only one phone which I broke in my life, but it happened when I didn't have any need in him. Oh, his speakers are soooo goood!
+
+# iPhone 6s 32GB
+
+Nice phone, still works very good in 2024 but doesn't has any new updated and uses outdated iOS 15.8.3. I think that it worth to buy him only for his still decent camera.
+
+# iPhone 11 128GB
+
+Not my, but I use it sometimes. I think that it was the last nice iPhone.
+
+# Bluego V503
+
+... I don't know what to say. This phone I got from my teacher, and I think that for 2024 it's not what you expect. He has a pretty big screen, but when you click on it it has some blinks under him (like a PC monitor). Only 1GB of RAM and 4GB of ROM. He works very fast, and also includes root from factory (it's not a joke!), but his Android 4.2.2 makes him literally useless. I think that this phone can be a good music/video player or just as a notepad, but definitely not for photo.
+
+# Nokia C5.00
+
+It was a very good phone in 2011, because he includes literally everything what you need even in these years: nice camera, social media, different tools etc. It was funny to write music in some apps on him ahaha. Also his nice feature is his selfie camera, but she is only 0.3MP.
